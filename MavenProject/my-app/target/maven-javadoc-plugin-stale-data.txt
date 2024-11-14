@@ -1,0 +1,44 @@
+@options
+@packages
+@argfile
+-encoding
+'UTF-8'
+-protected
+--release
+17
+-sourcepath
+'C:/Users/Mikel/Desktop/MavenProject/my-app/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/Mikel/Desktop/MavenProject/my-app/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'my-app 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'my-app 1.0-SNAPSHOT API'
+com.mycompany.app
+'C:/Users/Mikel/Desktop/MavenProject/my-app/src/main/java/com/mycompany/app/App.java'
+C:\Users\Mikel\Desktop\MavenProject\my-app\src\main\java = 1730372259312
+C:\Users\Mikel\Desktop\MavenProject\my-app\target\site\apidocs\allclasses-index.html = 1730373539213
+C:\Users\Mikel\Desktop\MavenProject\my-app\target\site\apidocs\allpackages-index.html = 1730373539213
+C:\Users\Mikel\Desktop\MavenProject\my-app\target\site\apidocs\element-list = 1730373539151
+C:\Users\Mikel\Desktop\MavenProject\my-app\target\site\apidocs\help-doc.html = 1730373539254
+C:\Users\Mikel\Desktop\MavenProject\my-app\target\site\apidocs\index-all.html = 1730373539237
+C:\Users\Mikel\Desktop\MavenProject\my-app\target\site\apidocs\index.html = 1730373539240
+C:\Users\Mikel\Desktop\MavenProject\my-app\target\site\apidocs\jquery-ui.overrides.css = 1730373539276
+C:\Users\Mikel\Desktop\MavenProject\my-app\target\site\apidocs\member-search-index.js = 1730373539213
+C:\Users\Mikel\Desktop\MavenProject\my-app\target\site\apidocs\module-search-index.js = 1730373539213
+C:\Users\Mikel\Desktop\MavenProject\my-app\target\site\apidocs\overview-tree.html = 1730373539197
+C:\Users\Mikel\Desktop\MavenProject\my-app\target\site\apidocs\package-search-index.js = 1730373539213
+C:\Users\Mikel\Desktop\MavenProject\my-app\target\site\apidocs\script.js = 1730373539261
+C:\Users\Mikel\Desktop\MavenProject\my-app\target\site\apidocs\search.js = 1730373539263
+C:\Users\Mikel\Desktop\MavenProject\my-app\target\site\apidocs\stylesheet.css = 1730373539254
+C:\Users\Mikel\Desktop\MavenProject\my-app\target\site\apidocs\tag-search-index.js = 1730373539213
+C:\Users\Mikel\Desktop\MavenProject\my-app\target\site\apidocs\type-search-index.js = 1730373539213
